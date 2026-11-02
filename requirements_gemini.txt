@@ -1,0 +1,5 @@
+streamlit
+langchain-core
+langchain-openai
+python-dotenv
+pillow
